@@ -3,9 +3,9 @@
 
 
 ## Contents:
-* /PCB - PCB gerber files
+* /PCB - PCB gerber files - Daifresne （TSGP LAB）
 
-* /BIN - BIN files
+* /BIN - BIN files - biebaowoyouci（Wanjia Technology）
 
 
 ## License:
