@@ -6,9 +6,9 @@
 ##  Flipper Zero ESP32 Marauder&NRF24&CC1101&L80-R 4 IN 1 board  设计文件
 
 ## 内容:
-* /PCB - PCB gerber文件
+* /PCB - PCB gerber文件 - Daifresne （TSGP工作室）
 
-* /bin - 烧录程序
+* /bin - 烧录程序 - 别抱我幼辞 （万家科技）
 
 
 ## 许可：
