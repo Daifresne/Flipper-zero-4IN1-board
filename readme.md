@@ -7,6 +7,8 @@
 
 * /BIN - BIN files - biebaowoyouci（Wanjia Technology）
 
+* /STL - STL files - zjywlive
+
 
 ## License:
 
