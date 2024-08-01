@@ -1,4 +1,4 @@
-# 该版本pcb已验证，为防止倒卖现象，目前不开源pcb源文件
+# 该版本pcb已验证，为防止恶意申请专利以及倒卖现象，目前不开源pcb源文件
 
 # Flipper Zero ESP32 Marauder&NRF24&CC1101&L80-R 4 IN 1 board
 [English Version](readme.md)
@@ -9,6 +9,9 @@
 * /PCB - PCB gerber文件 - Daifresne （TSGP工作室）
 
 * /bin - 烧录程序 - 别抱我幼辞 （万家科技）
+
+* /STL - 外壳模型 - zjywlive
+
 
 
 ## 许可：
