@@ -15,7 +15,7 @@
  
  
 ## License:
-* The designs are licensed under the CERN Open Hardware Licence v1.2 - Permissive. See the LICENSE file for details.
+* The designs are licensed under the GNU GENERAL PUBLIC LICENSE v3.0 - Permissive. See the LICENSE file for details.
  
 * The designs are provided as is, and zjywlive & TSGP LAB & Wanjia Technology are not responsible for any damage or injury that may result from using these designs.
  
