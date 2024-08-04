@@ -15,7 +15,7 @@
 
 
 ## 许可：
-* 设计采用 CERN 开源硬件许可协议 v1.2 - 许可。详情请查看 LICENSE 文件。
+* 设计采用 GNU GENERAL PUBLIC LICENSE V3.0 - 许可。详情请查看 LICENSE 文件。
 
 * 设计按原样提供，zjywlive、TSGP LAB以及万家科技不对使用这些设计可能引起的任何损害或伤害负责。
 
