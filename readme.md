@@ -33,4 +33,4 @@
 
 
 ## Usage Guide:
-After completing the above re-installation guide, you can use the USB-C port near the ESP32 S3 to flash your preferred firmware for use with the Flipper ZERO. ESP32 S3 firmware is not listed here. You can turn the module on and off using the button next to the OLED screen.
+After completing the above Replica Guide, you can use the USB-C port near the ESP32 S3 to flash your preferred firmware for use with the Flipper ZERO. ESP32 S3 firmware is not listed here. You can turn the module on and off using the button next to the OLED screen.
