@@ -24,7 +24,7 @@
 
 
 ## Replica Guide:
-1. Please purchase the components listed in /pcb file/BOM_Component Matching - 4in1 - TSGP LAB, then order /pcb file/Gerber_4in1.zip on the PCB manufacturer's ordering page. You can then solder the components according to the component numbers in the BOM.
+1. Please purchase the components listed in /pcb file/BOM_元件配单用——4in1 - TSGP LAB, then order /pcb file/Gerber_4in1.zip on the PCB manufacturer's ordering page. You can then solder the components according to the component numbers in the BOM.
 
 2. After soldering the components on the PCB, find the firmware version you need in /bin file. The Chinese firmware is "4OR1.bin" and the English firmware is "4OR1_en.bin." Then use a USB-to-TTL programmer to connect the TTL port on the ESP-01F module to flash the firmware.
 
