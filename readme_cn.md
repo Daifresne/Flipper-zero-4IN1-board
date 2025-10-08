@@ -25,7 +25,9 @@
 
 ## 复刻指南：
 1、请根据/pcb file/BOM_元件配单用——4in1 - TSGP LAB 内列举的元件进行购买，然后在pcb制造厂家的下单界面下单/pcb file/Gerber_4in1.zip 。然后您可以根据BOM中的元件位号配合pcb上的元件位号进行焊接。
+
 2、在pcb的元件焊接完成后，你需要在/bin file 中找到你需要的固件版本，中文固件为“4OR1.bin”，英文固件为“4OR1_en.bin”,然后使用usb to ttl烧录器连接esp 01f模块上的ttl接口进行固件烧录。
+
 3、如果您想使用外壳保护pcb，您可以在/STL FILE中下载外壳模型，并进行3d打印后安装。
 
 
